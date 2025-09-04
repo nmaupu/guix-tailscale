@@ -9,7 +9,7 @@
   #:use-module (guix records)
   #:use-module (ice-9 match)
   #:use-module (guix git-download)
-  #:use-module (gnu packages certs)
+  #:use-module (gnu packages nss)
   #:use-module (gnu packages compression)
   #:use-module (gnu packages base)
   #:use-module (gnu)
